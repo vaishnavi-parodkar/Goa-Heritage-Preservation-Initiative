@@ -34,7 +34,7 @@ A responsive multi-page website developed to promote awareness and preservation 
 
 ## 🌐 Live Demo
 
-Coming Soon!!
+Link: https://goa-heritage-preservation-initiativ.vercel.app/
 
 
 
